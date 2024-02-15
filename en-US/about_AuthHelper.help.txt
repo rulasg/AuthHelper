@@ -1,0 +1,20 @@
+TOPIC
+    about_AuthHelper
+
+AUTHOR
+    rulasg
+
+COPYRIGHT
+    (c) rulasg. All rights reserved.
+
+SHORT DESCRIPTION
+    Helper to manage GitHub authentication using GitHub Cli
+
+LONG DESCRIPTION
+    Helper to manage GitHub authentication using GitHub Cli
+
+KEYWORDS
+    Powershell Testing UnitTest Module TestingHelper
+
+SEE ALSO
+    https://github.com/rulasg/TestingHelper/

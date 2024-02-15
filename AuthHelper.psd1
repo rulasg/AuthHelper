@@ -52,6 +52,8 @@ Description = 'Helper to manage GitHub authentication using GitHub Cli'
 
 # Modules that must be imported into the global environment prior to importing this module
 # RequiredModules = @()
+#RequiredModules= "InvokeHelper"
+RequiredModules = @(@{ModuleName="InvokeHelper"; ModuleVersion="1.2"})
 
 # Assemblies that must be loaded prior to importing this module
 # RequiredAssemblies = @()
